@@ -1,8 +1,16 @@
 # SOCI-COVID-19
-Tracking sociologists' engagement in the critical reflection on coronavirus pandemic.
+This repo aims at tracking sociologists' reflection and research on coronavirus pandemic.
+
+# Contributor
+ antonyzhou(TONY S. ZHOU)
+
+# Contents
+ Part 1 SOCIOLOGISTS' OBSERVATION AND REFLECTION ON CORONAVIRUS PANDEMIC
+ Part 2 GEOGRAPHERS, SOCIOLOGISTS, PHILOSOPHERS ETC. ON COVID-19
+ Part 3 ACADEMIC RESOURCES For SOCIOLOGY STUDENTS
 
 
-# Part 1 SOCIOLOGISTS' Observation and Reflection on Coronavirus Pandemic.
+# Part 1 SOCIOLOGISTS' Observation and Reflection on Coronavirus Pandemic
 ## [April 2, 2020]
 
 **Tess Eyrich & Richard M. Carpiano**: [Sociologist explains how coronavirus might change the world around us](https://phys.org/news/2020-04-sociologist-coronavirus-world.html) .Phys.org
@@ -260,7 +268,7 @@ Nadia Colburn, [Coronavirus and climate activism: five common lessons](https://w
 
 
 
-# Part 3 ACADEMIC RESOURCES
+# Part 3 ACADEMIC RESOURCES For SOCIOLOGY STUDENTS
 
 [SAGE Coronavirus (COVID-19) Research](https://journals.sagepub.com/coronavirus)
 
