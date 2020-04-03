@@ -1,22 +1,15 @@
 # SOCI-COVID-19
 This repo aims at tracking sociologists' reflection and research on coronavirus pandemic.
 
-
-
 # Contributor
-
  antonyzhou(TONY S. ZHOU)
 
-
-
 # Contents
-
  Part 1 SOCIOLOGISTS' OBSERVATION AND REFLECTION ON CORONAVIRUS PANDEMIC
 
  Part 2 GEOGRAPHERS, SOCIOLOGISTS, PHILOSOPHERS ETC. ON COVID-19
 
  Part 3 ACADEMIC RESOURCES For SOCIOLOGY STUDENTS
-
 
 
 # Part 1 SOCIOLOGISTS' Observation and Reflection on Coronavirus Pandemic
@@ -87,11 +80,13 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 
 
 
+
+
+
+
 ## [February 3, 2020]
 
 **Noa Ronkin & Xueguang Zhou**: [Coronavirus Crisis Exposes Fundamental Tension in Governing China, Says Stanford Sociologist and China Expert Xueguang Zhou]() .Stanford University.
-
-
 
 
 
