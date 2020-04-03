@@ -6,11 +6,14 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 
 # Contents
  Part 1 SOCIOLOGISTS' OBSERVATION AND REFLECTION ON CORONAVIRUS PANDEMIC
+ 
  Part 2 GEOGRAPHERS, SOCIOLOGISTS, PHILOSOPHERS ETC. ON COVID-19
+ 
  Part 3 ACADEMIC RESOURCES For SOCIOLOGY STUDENTS
 
 
 # Part 1 SOCIOLOGISTS' Observation and Reflection on Coronavirus Pandemic
+
 ## [April 2, 2020]
 
 **Tess Eyrich & Richard M. Carpiano**: [Sociologist explains how coronavirus might change the world around us](https://phys.org/news/2020-04-sociologist-coronavirus-world.html) .Phys.org
@@ -74,6 +77,10 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 ## [March 12, 2020] 
 
 **Karen Sternheimer**:  [Applying the Sociological Imagination to COVID-19](https://www.everydaysociologyblog.com/2020/03/applying-the-sociological-imagination-to-covid-19.html) . Everyday Sociology Blog.
+
+
+
+
 
 
 
@@ -264,6 +271,9 @@ Daniele Lorenzini, [Biopolitics in the Time of Coronavirus](https://critinq.word
 [Listening to the city in a global pandemic](https://cityroadpod.org/2020/03/29/listening-to-the-city-in-a-global-pandemic/) (City Road Podcast)
 
 Nadia Colburn, [Coronavirus and climate activism: five common lessons](https://www.opendemocracy.net/en/transformation/coronavirus-and-climate-activism-five-common-lessons/) (Open Democracy)
+
+
+
 
 
 
