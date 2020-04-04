@@ -16,6 +16,9 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 
 ## [April 2, 2020]
 
+社会学家在疫情期间做了什么？4月2日，Journal of Health and Social Behavior的主编之一Richard M. Carpiano教授和著名体育社会学家Harry Edwards分别接受专访，讨论了新冠疫情的全球影响，以及体育和新冠肺炎的传播。
+更多信息，可以查阅下述收集的内容或自主添加内容。
+
 **Tess Eyrich & Richard M. Carpiano**: [Sociologist explains how coronavirus might change the world around us](https://phys.org/news/2020-04-sociologist-coronavirus-world.html) .Phys.org
 
 **Harry Edwards**: [Dr. Harry Edwards on the role of sports post COVID-19 pandemic]( https://www.sportsnet.ca/590/writers-bloc/dr-harry-edwards-role-sports-post-covid-19-pandemic/).Sportsnet.
