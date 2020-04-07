@@ -36,7 +36,7 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 ## [March 25, 2020]
 
 **Graham Scambler**: [Sociology, COVID-19 and Social Change](http://www.grahamscambler.com/sociology-covid-19-and-social-change/)
-
+**Colby King**: [The Working Class and Service Industry Workers: The Front Lines of the COVID-19 Economy](https://www.everydaysociologyblog.com/2020/03/the-working-class-and-service-industry-workers-the-front-lines-of-the-covid-19-economy.html). Everyday Sociology Blog.
 
 
 ## [March 23, 2020] 
@@ -50,7 +50,11 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 ## [March 21, 2020] 
 
 **Darim Al-Basam**: [The coronavirus: Sociology of a pandemic](https://www.gulf-times.com/story/658925/The-coronavirus-Sociology-of-a-pandemic) .Gulf Times.
+**SIMON CARTER, JUDY GREEN AND EWEN SPEED** [COVID-19: A sociological critique](https://www.cost-ofliving.net/covid-19-a-sociological-critique/).Cost of Living.
 
+
+## [March 19, 2020]
+**Alan Petersen**: [COVID-19: Making sense of the social responses](https://lens.monash.edu/@politics-society/2020/03/19/1379851/making-sense-of-social-responses-to-covid-19). Monash University.
 
 
 ## [March 18, 2020]
@@ -62,7 +66,7 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 ## [March 17, 2020]
 
 **Colby King**: [Applying Sociology of Work and Organizations Concepts to the COVID-19 Pandemic](https://www.everydaysociologyblog.com/2020/03/applying-sociology-of-work-and-organizations-concepts-to-the-covid-19-pandemic.html). Everyday Sociology Blog.
-
+**Graham Scambler**: [PANDEMIC AS A ‘BREACHING EXPERIMENT’ IN SOCIAL ORDER](https://discoversociety.org/2020/03/17/pandemic-as-a-breaching-experiment-in-social-order/).Discoversociety.
 
 
 ## [March 16, 2020]
@@ -83,13 +87,13 @@ This repo aims at tracking sociologists' reflection and research on coronavirus 
 
 
 
-
-
-
-
 ## [February 3, 2020]
 
 **Noa Ronkin & Xueguang Zhou**: [Coronavirus Crisis Exposes Fundamental Tension in Governing China, Says Stanford Sociologist and China Expert Xueguang Zhou]() .Stanford University.
+
+
+
+
 
 
 
